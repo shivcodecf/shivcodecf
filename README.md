@@ -1,105 +1,165 @@
-# Hi 👋, I'm Shivam Yadav
+<div align="center">
+
+# Hey there 👋, I'm Shivam Yadav
 
 ### 🚀 Full Stack Developer | MERN Developer | Software Engineer
 
-I am a passionate Full Stack Developer with experience in building scalable web applications using the MERN stack. I enjoy designing efficient backend systems, creating responsive user interfaces, and solving complex algorithmic problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Enthusiast;1500%2B+DSA+Problems+Solved" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Full Stack Developer specializing in **MongoDB, Express.js, React.js, and Node.js**
-* 🧠 Solved **1500+ DSA problems** across coding platforms (800+ on LeetCode)
-* 🔭 Building full-stack applications with authentication, APIs, databases, and cloud integrations
-* 🌱 Currently learning **System Design, AWS, Redis, and scalable backend architecture**
-* 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs**
-* 📫 Reach me at **[shivamyadav2113128@gmail.com](mailto:shivamyadav2113128@gmail.com)**
+<img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
----
+* 🔭 Currently working on **scalable full-stack applications**
+* 🌱 Learning **System Design, AWS, Redis & Cloud Architecture**
+* 💻 Love building with **MERN Stack**
+* 🧩 Solved **1500+ DSA problems** across platforms
+* 🚀 Interested in **Backend Engineering & Distributed Systems**
+* 📫 Reach me: **[shivamyadav2113128@gmail.com](mailto:shivamyadav2113128@gmail.com)**
 
-## 🏆 Featured Projects
-
-### 🎓 Learning Management System (LMS)
-
-A full-stack platform where instructors can create courses and students can enroll and learn.
-
-**Features:**
-
-* Authentication & authorization
-* Course management
-* Video lectures
-* Payment integration
-* Progress tracking
-* REST APIs
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cloud Storage
-
----
-
-### ✉️ AI Email Generator
-
-An AI-powered application that generates professional emails using AI.
-
-**Features:**
-
-* AI-based email generation
-* Email templates
-* Draft management
-* API integration
-
-**Tech Stack:** React.js, Node.js, MongoDB, Gemini API
-
----
-
-### 💼 Job Portal
-
-A complete job marketplace connecting recruiters and job seekers.
-
-**Features:**
-
-* User authentication
-* Job posting
-* Application management
-* Role-based access control
-
-**Tech Stack:** React.js, Express.js, MongoDB
+<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
 
-React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,aws,git,github,postman,vscode" />
 
-### Backend
-
-Node.js • Express.js • REST APIs • Authentication • JWT
-
-### Databases
-
-MongoDB • MySQL
-
-### Tools & Platforms
-
-Git • GitHub • Postman • VS Code • AWS • Redis
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivcodecf\&show_icons=true)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivcodecf\&layout=compact)
+### 🎓 Learning Management System
+
+📚 Complete MERN based LMS platform
+
+✨ Authentication & Authorization
+✨ Course Management
+✨ Video Lectures
+✨ Payment Integration
+✨ Cloud Storage
+
+**Tech:** React • Node • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Email Generator
+
+Generate professional emails using AI.
+
+✨ AI Content Generation
+✨ Draft Management
+✨ Email Templates
+✨ Gemini API Integration
+
+**Tech:** MERN • Gemini API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💼 Job Portal
+
+Connect recruiters and candidates.
+
+✨ Authentication
+✨ Job Posting
+✨ Applications Management
+
+**Tech:** React • Node • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🔗 URL Shortener
+
+Short URLs with analytics dashboard.
+
+✨ URL Analytics
+✨ Click Tracking
+✨ Dashboard
+
+**Tech:** MERN Stack
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Coding Profiles
 
-* GitHub: https://github.com/shivcodecf
-* LeetCode: https://leetcode.com/u/shivamyadav2113128/
-* LinkedIn: Add your LinkedIn profile here
+<div align="center">
+
+<a href="https://leetcode.com/u/shivamyadav2113128/">
+  <img src="https://img.shields.io/badge/LeetCode-1500%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
 
 ---
 
-### ⭐ "Building scalable applications and continuously improving as a Software Engineer."
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivcodecf&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivcodecf&layout=compact&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shivcodecf&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:shivamyadav2113128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivcodecf">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/shivamyadav2113128/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Learn. Build. Repeat."
+
+<img src="https://komarev.com/ghpvc/?username=shivcodecf&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+</div>
