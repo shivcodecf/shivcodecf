@@ -1,105 +1,103 @@
 <div align="center">
 
-# Hey there 👋, I'm Shivam Yadav
+# 👋 Hey, I'm Shivam Yadav
 
-### 🚀 Full Stack Developer | MERN Developer | Software Engineer
+### 🚀 Software Engineer • Full Stack Developer • Backend Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Enthusiast;1500%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+Distributed+Systems;React+%7C+Node.js+%7C+Elixir+%7C+Redis" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shivcodecf&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
-<img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+## 💫 About Me
 
-## ⚙️ Backend-Focused Developer
+```javascript
+const shivam = {
+    role: "Software Engineer",
+    location: "India 🇮🇳",
 
-- 🔥 Full Stack Developer with a strong interest in backend engineering and scalable architectures.
-- 🛠️ Built APIs, authentication systems, file upload services, database schemas, and real-time application features.
-- 📦 Experienced with Node.js, Express.js, MongoDB, MySQL, Redis, and REST API development.
-- 📈 Passionate about improving application performance, optimizing database queries, and designing reliable systems.
-- 🧠 Solved 1500+ DSA problems, strengthening problem-solving and algorithmic thinking.
-- ☁️ Expanding expertise in AWS, Docker, system design, and distributed systems.
-<br/>
+    expertise: [
+        "Backend Development",
+        "Full Stack Engineering",
+        "REST API Development",
+        "Cloud Deployment"
+    ],
+
+    currentlyWorkingOn: [
+        "Scalable Backend Systems",
+        "Distributed Architecture",
+        "System Design"
+    ],
+
+    tech: [
+        "Node.js",
+        "React.js",
+        "Elixir",
+        "Redis",
+        "AWS",
+        "Docker"
+    ],
+
+    motto: "Write clean code, build reliable systems."
+}
+```
+
+* 🔥 Building **production-grade APIs and scalable applications**
+* ⚡ Experience with **Redis caching, CI/CD pipelines, Linux servers & cloud deployments**
+* 🧠 Solved **1500+ DSA problems** across coding platforms
+* 🚀 Passionate about **backend engineering, performance optimization & distributed systems**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,aws,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,react,redux,tailwind,nodejs,express,elixir,mongodb,postgres,mysql,redis,docker,aws,linux,nginx,git,github,githubactions,postman,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Engineering Playground
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🎓 Learning Management System
+### 🎓 LMS Platform
 
-📚 Complete MERN based LMS platform
+📚 Full-scale learning ecosystem
 
-✨ Authentication & Authorization
-✨ Course Management
-✨ Video Lectures
-✨ Payment Integration
-✨ Cloud Storage
-
-**Tech:** React • Node • MongoDB
+✨ JWT Authentication
+💳 Stripe Webhooks
+⚡ Redis Caching
+☁️ AWS EC2 + S3
+🔒 API Rate Limiting
+🌐 Nginx Deployment
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI Email Generator
+### 🎲 Provably Fair Plinko
 
-Generate professional emails using AI.
+🎮 Cryptographically secure game
 
-✨ AI Content Generation
-✨ Draft Management
-✨ Email Templates
-✨ Gemini API Integration
-
-**Tech:** MERN • Gemini API
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💼 Job Portal
-
-Connect recruiters and candidates.
-
-✨ Authentication
-✨ Job Posting
-✨ Applications Management
-
-**Tech:** React • Node • MongoDB
-
-</td>
-
-<td width="50%">
-
-### 🔗 URL Shortener
-
-Short URLs with analytics dashboard.
-
-✨ URL Analytics
-✨ Click Tracking
-✨ Dashboard
-
-**Tech:** MERN Stack
+🔐 SHA-256 Commit Reveal
+🗄️ PostgreSQL + Prisma
+⚡ Real-time APIs
+🧪 Fairness Verification
 
 </td>
 
@@ -109,12 +107,16 @@ Short URLs with analytics dashboard.
 
 ---
 
-## 🏆 Coding Profiles
+## 🏆 Coding Journey
 
 <div align="center">
 
-<a href="https://leetcode.com/u/shivamyadav2113128/">
-  <img src="https://img.shields.io/badge/LeetCode-1500%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shivcodecf&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/shivamyadav2113128">
+<img src="https://img.shields.io/badge/LeetCode-1500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
@@ -125,31 +127,45 @@ Short URLs with analytics dashboard.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivcodecf&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivcodecf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivcodecf&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivcodecf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shivcodecf&theme=tokyonight"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=shivcodecf&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shivcodecf/shivcodecf/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="mailto:shivamyadav2113128@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shivcodecf">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/u/shivamyadav2113128/">
+<a href="https://www.linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shivamyadav2113128">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -159,8 +175,8 @@ Short URLs with analytics dashboard.
 
 <div align="center">
 
-### ⚡ "Code. Learn. Build. Repeat."
+### ⚡ Turning ideas into scalable software solutions
 
-<img src="https://komarev.com/ghpvc/?username=shivcodecf&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
