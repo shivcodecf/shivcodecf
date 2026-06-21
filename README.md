@@ -4,11 +4,17 @@
 
 ### 🚀 Software Engineer • Full Stack Developer • Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Building+Scalable+Backend+Systems;Backend+Engineering+%7C+Cloud+%7C+DevOps;React+%7C+Node.js+%7C+Elixir+%7C+Redis;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Backend+Engineering+%7C+Cloud+%7C+DevOps;React+%7C+Node.js+%7C+Elixir+%7C+Redis;Turning+Ideas+Into+Reliable+Software" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=shivcodecf&style=for-the-badge&color=blueviolet"/>
+
+<br/>
+
+<a href="https://leetcode.com/u/shivamyadav2113128">
+  <img src="https://img.shields.io/badge/LeetCode-1500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -16,17 +22,33 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="60%"
+    alt="coding"
+  />
+</div>
+
+<br/>
 
 ```javascript
 const shivam = {
   role: "Software Engineer",
   location: "India 🇮🇳",
-  focus: [
+
+  expertise: [
     "Backend Engineering",
     "Distributed Systems",
-    "Cloud Infrastructure"
+    "Full Stack Development"
   ],
+
+  currentlyExploring: [
+    "System Design",
+    "Microservices",
+    "Cloud Architecture"
+  ],
+
   tech: [
     "Node.js",
     "Elixir",
@@ -34,24 +56,24 @@ const shivam = {
     "Redis",
     "AWS",
     "Docker"
-  ]
+  ],
+
+  mindset: "Build scalable systems, write clean code 🚀"
 };
 ```
 
-* 🔥 Building production-grade APIs & scalable applications
-* ⚡ Experienced with Redis caching, CI/CD, Linux & cloud deployments
-* 🧠 Solved 1500+ DSA problems across coding platforms
-* 🌱 Exploring System Design, Microservices & Cloud Architecture
-
-<br clear="right"/>
+* 🔥 Building production-grade APIs and scalable applications
+* ⚡ Experienced with Redis, CI/CD, Linux servers, and cloud deployments
+* 🧠 Solved **1500+ DSA problems** across coding platforms
+* 🚀 Passionate about backend performance, architecture, and distributed systems
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,react,redux,tailwind,nodejs,express,elixir,mongodb,postgres,mysql,redis,docker,aws,linux,nginx,git,github,githubactions,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,react,redux,tailwind,nodejs,express,elixir,mongodb,postgres,mysql,redis,docker,aws,linux,nginx,git,github,githubactions,postman,vscode"/>
 
 </div>
 
@@ -67,15 +89,15 @@ const shivam = {
 
 ### 🎓 Learning Management System
 
-📚 Scalable MERN based LMS
+📚 Scalable LMS platform
 
-* 🔐 JWT Authentication & RBAC
-* 💳 Stripe Webhooks
+* 🔐 Authentication & RBAC
+* 💳 Stripe Webhook Payments
 * ⚡ Redis Caching
 * ☁️ AWS EC2 + S3
-* 🌐 Nginx & PM2 Deployment
+* 🌐 Nginx + PM2 Deployment
 
-**Stack:** MERN • Redis • AWS
+**Tech:** MERN • Redis • AWS
 
 </td>
 
@@ -85,12 +107,12 @@ const shivam = {
 
 🎮 Cryptographically verifiable game
 
-* 🔒 SHA-256 Commit-Reveal
+* 🔐 SHA-256 Commit-Reveal
 * 🗄️ PostgreSQL + Prisma
-* ⚡ REST APIs
+* ⚡ REST API Architecture
 * 🧪 Fairness Verification
 
-**Stack:** React • Node.js • PostgreSQL
+**Tech:** React • Node.js • PostgreSQL
 
 </td>
 
@@ -100,29 +122,31 @@ const shivam = {
 
 ---
 
-## 🏆 Coding Journey
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivcodecf&theme=tokyonight&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shivcodecf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-<br/><br/>
+</div>
 
-<a href="https://leetcode.com/u/shivamyadav2113128">
-<img src="https://img.shields.io/badge/LeetCode-1500%2B+Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivcodecf&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivcodecf&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivcodecf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivcodecf&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivcodecf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -132,17 +156,17 @@ const shivam = {
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivcodecf/shivcodecf/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/shivcodecf/shivcodecf/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🌐 Let's Connect
 
 <div align="center">
 
@@ -154,7 +178,7 @@ const shivam = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/YOUR_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -168,7 +192,7 @@ const shivam = {
 
 <div align="center">
 
-### ⚡ "Turning complex problems into scalable software solutions"
+## ⚡ "Turning complex problems into scalable software solutions"
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
