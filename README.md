@@ -8,14 +8,15 @@
 
 <br/>
 
-![Uploading {81492FF5-D5C6-41F3-A722-F792AE705C63}.png…]()
+
 
 
 </div>
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img width="1354" height="774" alt="{81492FF5-D5C6-41F3-A722-F792AE705C63}" src="https://github.com/user-attachments/assets/a7d1729d-be11-4b00-a6ab-001947d3b634" />
+
 
 ## 💫 About Me
 
