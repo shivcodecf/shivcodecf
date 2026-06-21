@@ -8,7 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shivcodecf&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+![Uploading {81492FF5-D5C6-41F3-A722-F792AE705C63}.png…]()
+
 
 </div>
 
