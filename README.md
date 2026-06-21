@@ -14,13 +14,14 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-* 🔭 Currently working on **scalable full-stack applications**
-* 🌱 Learning **System Design, AWS, Redis & Cloud Architecture**
-* 💻 Love building with **MERN Stack**
-* 🧩 Solved **1500+ DSA problems** across platforms
-* 🚀 Interested in **Backend Engineering & Distributed Systems**
-* 📫 Reach me: **[shivamyadav2113128@gmail.com](mailto:shivamyadav2113128@gmail.com)**
+## ⚙️ Backend-Focused Developer
 
+- 🔥 Full Stack Developer with a strong interest in backend engineering and scalable architectures.
+- 🛠️ Built APIs, authentication systems, file upload services, database schemas, and real-time application features.
+- 📦 Experienced with Node.js, Express.js, MongoDB, MySQL, Redis, and REST API development.
+- 📈 Passionate about improving application performance, optimizing database queries, and designing reliable systems.
+- 🧠 Solved 1500+ DSA problems, strengthening problem-solving and algorithmic thinking.
+- ☁️ Expanding expertise in AWS, Docker, system design, and distributed systems.
 <br/>
 
 ---
