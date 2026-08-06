@@ -160,7 +160,9 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivcodecf/shivcodecf/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<p align="center">
+  <img src="https://github.com/shivcodecf/shivcodecf/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 </div>
 
